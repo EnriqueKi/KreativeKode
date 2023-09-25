@@ -7,18 +7,24 @@ Code is a mesmerizing tool for visual expression. From generative graphics to im
 
 * 26.Sept to 29.Sept -> IntroP5.js
 * 3.Oct to 6.Oct -> Peer.coding  
-* 10.Oct to 13.Oct -> Feral.aker
-* 17.Oct to 20.Oct -> 
+* 10.Oct to 13.Oct -> P5.jam
+* 17.Oct to 20.Oct -> P5.exhibit
 _______________________________________________
 _______________________________________________
 
 
 ## IntroP5.js
-26.Sept to 29.Sept
+26.Sept to 3.Oct
 
 This week we'll have fun with [P5.js](https://p5js.org/) and learn the basics of this javascript library for creative coding with tons of examples. 
 
 No need to use anything other than Google [Chrome](https://www.google.com/chrome/) and the web [P5.js editor](https://editor.p5js.org/) -> **Please make an account!**
+
+_Rough Schedule_
+26.Sept -> Intro - playfulness: face - https://creative-coding.decontextualize.com/first-steps/ + https://github.com/susanev/p5js-workshops/blob/master/1-day-workshop/activities/face.md
+27.Sept -> Variables + Conditionals - Playfulness : interactive Album Art https://cs4all-icm.gitbook.io/introduction-to-computational-media-curriculum/unit-1-drawing-variables-and-random/u1la2.1-intro-to-variables-system-variables + https://cs4all-icm.gitbook.io/introduction-to-computational-media-curriculum/unit-2-respond-and-draw-on-canvas/unit-2-overview
+28th & 29th -> Research Days + no class!
+3rd.Oct -> Arrays + Loops - Playfulness : Wallpaper & fortune Teller - https://cs4all-icm.gitbook.io/introduction-to-computational-media-curriculum/unit-3-arrays-loops-media/unit-3-overview
 
 _Resources:_ 
 * Go to whenever there are doubts : p5.js reference https://p5js.org/reference/
@@ -74,9 +80,9 @@ _Resources:_
 * Wonderfully inspirational list : https://github.com/ITPNYU/ICM-2017/wiki/Inspiration
 
 ## Peer.coding 
-3.Oct to 6.Oct
+4.Oct to 10.Oct
 
-Image + typography + sound in Day 1 +++ Remix in Day 2
+Image + typography + sound in Day 1 +++ Remix in Day 2 -> https://cs4all-icm.gitbook.io/introduction-to-computational-media-curriculum/unit-3-final-project-random-meme-generator
 Motion + Functions in Day 3 +++ Remix in Day 4
 
 Invite ChatGPT into your peer coding ensemble and produce a sketch, why not? 
@@ -86,7 +92,8 @@ Invite ChatGPT into your peer coding ensemble and produce a sketch, why not?
 
 Cut/Copy/Paste code from everywhere all at once! -> Remix! and Steal!
 
-## 
+## P5.Exhibit
+
 17.Oct to 20.Oct
 
 
