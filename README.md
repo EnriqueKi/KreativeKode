@@ -83,12 +83,12 @@ _Resources:_
 4.Oct to 10.Oct
 
 Image + typography + sound in Day 1 +++ Remix in Day 2 -> https://cs4all-icm.gitbook.io/introduction-to-computational-media-curriculum/unit-3-final-project-random-meme-generator
-Motion + Functions in Day 3 +++ Remix in Day 4
+Motion + Functions in Day 3 https://nycdoe-cs4all.github.io/units/5/overview +++ Remix in Day 4 -> https://cs4all-icm.gitbook.io/introduction-to-computational-media-curriculum/unit-4-motion-animation-transformation/unit-4-final-project-animated-greeting-card-psa
 
 Invite ChatGPT into your peer coding ensemble and produce a sketch, why not? 
 
 ## P5.Jam
-10.Oct to 13.Oct
+11.Oct to 13.Oct
 
 Cut/Copy/Paste code from everywhere all at once! -> Remix! and Steal!
 
