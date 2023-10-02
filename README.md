@@ -24,7 +24,7 @@ _Rough Schedule_
 * 26.Sept -> Intro - playfulness: face - https://creative-coding.decontextualize.com/first-steps/ + https://github.com/susanev/p5js-workshops/blob/master/1-day-workshop/activities/face.md
 * 27.Sept -> Variables + Conditionals - Playfulness : interactive Album Art https://cs4all-icm.gitbook.io/introduction-to-computational-media-curriculum/unit-1-drawing-variables-and-random/u1la2.1-intro-to-variables-system-variables + https://cs4all-icm.gitbook.io/introduction-to-computational-media-curriculum/unit-2-respond-and-draw-on-canvas/unit-2-overview
 * 28th & 29th -> Research Days + no class!
-* 3rd.Oct -> Arrays + Loops - Playfulness : Wallpaper & fortune Teller - https://cs4all-icm.gitbook.io/introduction-to-computational-media-curriculum/unit-3-arrays-loops-media/unit-3-overview
+* 3rd.Oct -> Arrays + Loops - Playfulness : Wallpaper and/or fortune Teller - https://cs4all-icm.gitbook.io/introduction-to-computational-media-curriculum/unit-3-arrays-loops-media/unit-3-overview + https://cs4all-icm.gitbook.io/introduction-to-computational-media-curriculum/unit-3-arrays-loops-media/u3la2-mini-project-1-fortune-teller + https://nycdoe-cs4all.github.io/units/3/lessons/lesson_1.6
 
 _Resources:_ 
 * Go to whenever there are doubts : p5.js reference https://p5js.org/reference/
@@ -82,8 +82,15 @@ _Resources:_
 ## Peer.coding 
 4.Oct to 10.Oct
 
-Image + typography + sound in Day 1 +++ Remix in Day 2 -> https://cs4all-icm.gitbook.io/introduction-to-computational-media-curriculum/unit-3-final-project-random-meme-generator
-Motion + Functions in Day 3 https://nycdoe-cs4all.github.io/units/5/overview +++ Remix in Day 4 -> https://cs4all-icm.gitbook.io/introduction-to-computational-media-curriculum/unit-4-motion-animation-transformation/unit-4-final-project-animated-greeting-card-psa
++ Image -> https://nycdoe-cs4all.github.io/units/3/lessons/lesson_3.1 + 3.3 Image Manipulation (Position, Size, Tint) + https://creative-coding.decontextualize.com/media/
++ Typography -> https://nycdoe-cs4all.github.io/units/3/lessons/lesson_4.1 + https://creative-coding.decontextualize.com/text-and-type/
++ Sound -> https://nycdoe-cs4all.github.io/units/3/lessons/lesson_5.1 + https://nycdoe-cs4all.github.io/units/3/lessons/lesson_5.2 + https://creative-coding.decontextualize.com/media/ + https://therewasaguy.github.io/p5-music-viz/ + https://creative-coding.decontextualize.com/synthesizing-analyzing-sound/
++ Remix in Day 2 -> https://cs4all-icm.gitbook.io/introduction-to-computational-media-curriculum/unit-3-final-project-random-meme-generator
+
+
+Motion + Functions in Day 3 https://nycdoe-cs4all.github.io/units/5/overview +++ Remix in Day 3 -> https://cs4all-icm.gitbook.io/introduction-to-computational-media-curriculum/unit-4-motion-animation-transformation/unit-4-final-project-animated-greeting-card-psa
+
+Objects on Day 4 (10th Oct) -> https://nycdoe-cs4all.github.io/units/6/overview
 
 Invite ChatGPT into your peer coding ensemble and produce a sketch, why not? 
 
