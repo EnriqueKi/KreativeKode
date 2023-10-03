@@ -24,7 +24,7 @@ _Rough Schedule_
 * 26.Sept -> Intro - playfulness: face - https://creative-coding.decontextualize.com/first-steps/ + https://github.com/susanev/p5js-workshops/blob/master/1-day-workshop/activities/face.md
 * 27.Sept -> Variables + Conditionals - Playfulness : interactive Album Art https://cs4all-icm.gitbook.io/introduction-to-computational-media-curriculum/unit-1-drawing-variables-and-random/u1la2.1-intro-to-variables-system-variables + https://cs4all-icm.gitbook.io/introduction-to-computational-media-curriculum/unit-2-respond-and-draw-on-canvas/unit-2-overview
 * 28th & 29th -> Research Days + no class!
-* 3rd.Oct -> Arrays + Loops - Playfulness : Wallpaper and/or fortune Teller - https://cs4all-icm.gitbook.io/introduction-to-computational-media-curriculum/unit-3-arrays-loops-media/unit-3-overview + https://cs4all-icm.gitbook.io/introduction-to-computational-media-curriculum/unit-3-arrays-loops-media/u3la2-mini-project-1-fortune-teller + https://nycdoe-cs4all.github.io/units/3/lessons/lesson_1.6
+* 3rd.Oct -> Arrays + Loops - Playfulness : Wallpaper and/or fortune Teller - https://nycdoe-cs4all.github.io/units/3/overview + https://cs4all-icm.gitbook.io/introduction-to-computational-media-curriculum/unit-3-arrays-loops-media/u3la2-mini-project-1-fortune-teller + https://nycdoe-cs4all.github.io/units/3/lessons/lesson_1.6
 
 _Resources:_ 
 * Go to whenever there are doubts : p5.js reference https://p5js.org/reference/
