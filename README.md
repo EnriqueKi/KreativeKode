@@ -82,7 +82,7 @@ _Resources:_
 ## Peer.coding 
 4.Oct to 10.Oct
 
-Three groups working on different areas (image, typography and sound) > learn together the content and produce one or more sketches by the end of the day -> get inspired by examples online!
+Four groups working on different areas (image, typography, Motion and functions) > learn together the content and produce one or more sketches by the end of the day -> get inspired by examples online!
 
 + Image -> https://nycdoe-cs4all.github.io/units/3/lessons/lesson_3.1 + 3.3 Image Manipulation (Position, Size, Tint) + https://creative-coding.decontextualize.com/media/
 + Typography -> https://nycdoe-cs4all.github.io/units/3/lessons/lesson_4.1 + https://creative-coding.decontextualize.com/text-and-type/
