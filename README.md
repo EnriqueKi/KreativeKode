@@ -86,14 +86,15 @@ Three groups working on different areas (image, typography and sound) > learn to
 
 + Image -> https://nycdoe-cs4all.github.io/units/3/lessons/lesson_3.1 + 3.3 Image Manipulation (Position, Size, Tint) + https://creative-coding.decontextualize.com/media/
 + Typography -> https://nycdoe-cs4all.github.io/units/3/lessons/lesson_4.1 + https://creative-coding.decontextualize.com/text-and-type/
-+ Sound -> https://nycdoe-cs4all.github.io/units/3/lessons/lesson_5.1 + https://nycdoe-cs4all.github.io/units/3/lessons/lesson_5.2 + https://creative-coding.decontextualize.com/media/ + https://therewasaguy.github.io/p5-music-viz/ + https://creative-coding.decontextualize.com/synthesizing-analyzing-sound/
++ Motion -> https://nycdoe-cs4all.github.io/units/4/overview
++ Functions -> https://nycdoe-cs4all.github.io/units/5/overview
 
 Remix the groups and produce something together - use resources online (find sketches and recycle/modify!)
   
-+ Remix in Day 2 -> https://cs4all-icm.gitbook.io/introduction-to-computational-media-curriculum/unit-3-final-project-random-meme-generator
++ Remix! Inspiration: -> https://cs4all-icm.gitbook.io/introduction-to-computational-media-curriculum/unit-3-final-project-random-meme-generator + https://cs4all-icm.gitbook.io/introduction-to-computational-media-curriculum/unit-4-motion-animation-transformation/unit-4-final-project-animated-greeting-card-psa
 
-
-Motion + Functions in Day 3 https://nycdoe-cs4all.github.io/units/5/overview +++ Remix in Day 3 -> https://cs4all-icm.gitbook.io/introduction-to-computational-media-curriculum/unit-4-motion-animation-transformation/unit-4-final-project-animated-greeting-card-psa
+EXTRA!
++ Sound -> https://nycdoe-cs4all.github.io/units/3/lessons/lesson_5.1 + https://nycdoe-cs4all.github.io/units/3/lessons/lesson_5.2 + https://creative-coding.decontextualize.com/media/ + https://therewasaguy.github.io/p5-music-viz/ + https://creative-coding.decontextualize.com/synthesizing-analyzing-sound/
 
 Objects on Day 4 (10th Oct) -> https://nycdoe-cs4all.github.io/units/6/overview
 
