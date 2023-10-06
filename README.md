@@ -148,7 +148,7 @@ People find themselves in a Safe Space sometimes feeling anxious, lost, alone, t
 Ingrid Autran from Safe Space and Anna Høifødt from Tryggere Ruspolitik will visit us during the week to provide inspiration, information and assistance. Students will have the chance to present preeliminary visuals at the Safe Space organized on the 14th of October at the Under the rugXOuroboros party. The final visuals will be shown on the 21st of October at an AHO gallery that will be transformed into a Safe Space for the next days.
 
 
-Affiliated Organizations with Safe Space and Tryggere Ruspolitik:
+**Affiliated Organizations with Safe Space and Tryggere Ruspolitik:**
 
 <img width="1296" alt="safespace" src="https://github.com/EnriqueKi/KreativeKode/assets/108141423/4b1d1225-4574-44fd-94a3-c8993e1b74e5">
 
