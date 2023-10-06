@@ -107,8 +107,49 @@ Cut/Copy/Paste code from everywhere all at once! -> Remix! and Steal!
 
 ## P5.Exhibit
 
-17.Oct to 20.Oct
+14.Oct to 20.Oct
 
+![IMG_153FABCFABCE-1](https://github.com/EnriqueKi/KreativeKode/assets/108141423/9b516726-81f8-4795-8d53-e79bccdb86f6)
+
+
+
+## Care Visuals for Safe Spaces
+
+The final brief for the Kreative Kode course has been developed in cooperation with Tryggere Ryspolitik and their initiative Safe Space. Before diving into the brief description, lets quickly answer some important questions. 
+
+### What is Tryggere Ruspolitik?
+
+Tryggere Ruspolitik is an organization that works ****through grassroots efforts, promotion of science and active involvement with policymakers to change today's harmful drug policies.**** They work to develop future regulatory models for all drug types (alcohol included) that can minimize both drug-related health harms and drug-related crime.
+
+As an association firmly rooted in civic engagement, Tryggerere Ruspolitikk aims to minimize the harmful effects of drug use, and therefore works for a greater investment in harm prevention and harm reduction measures. They work  with several user groups through initiatives that provide in depth information about drugs' effects, dosage and risks which reduces injuries associated with drug use. 
+
+Safe space is very impactful **harm reduction** initiative sponsored by Tryggere Ruspolitik. Harm reduction is a set of practical strategies and ideas aimed at reducing negative consequences associated with drug use. Harm reduction initiatives accept, for better or worse, that licit and illicit drug use is part of our world and there is a need to work to minimize its harmful effects rather than simply ignore or condemn them. At the same time, harm reduction initiatives. understand drug use as a complex, multi-faceted phenomenon that encompasses a continuum of behaviors from severe use to total abstinence, and acknowledges that some ways of using drugs are clearly safer than others.
+
+More info here: https://www.rusreform.no/
+
+### What is Safe Space?
+
+As a harm reduction initiative, the purpose of Safe Space is to provide help on a person’s own terms to reduce drug-related harm and discomfort at concerts, parties and other events where recreational use of drugs (including alcohol) might take place. Safe space draws inspiration from the Zendo project (https://zendoproject.org/about/) in terms of principles and methodology.
+
+The Safe Space is a screened-off and quiet place on the festival (or any other recreational/party venue) grounds where people who have a negative reaction after taking a drug (and this includes alcohol too) can access to get some rest and, if necessary, further follow-up by health services. The location and layout of the safe zone is agreed with the organiser of an event, and Safe Space bring their our own equipment to set everything up.
+
+A core element care within the Safe Space is to support people who have had an unpleasant experience in connection with having taken a drug. This is why there are volunteers at the Safe Space to support the person by reassuring them that everything will be fine, making arrangements for the person to become comfortable, calm down or by involving health services if the situation requires it.
+
+More info here: https://safe-space.no/ and here: https://zendoproject.org/about/
+
+### The Brief
+
+Different people arrive to Safe Spaces looking different things. Some are looking for comfort, others for grounding and many for a few moments of peace. How a Safe Space is designed has a major impact in how people transition into a preferred way of being in their own body. What people sense while in the safe space greatly influences what they experience. 
+
+The final task for the Kreative Kode will focus on what people see while spending time in the Safe Space. You, the students, will design visuals that will be projected in Safe Spaces with the aim to contribute to visitors wellbeing. 
+
+People find themselves in a Safe Space sometimes feeling anxious, lost, alone, trapped, disoriented or confused. What moving images shown on screens or painted with light as projections in the walls of the safe space can help people feel more grounded, peaceful and safe? 
+
+Ingrid Autran from Safe Space and Anna Høifødt from Tryggere Ruspolitik will visit us during the week to provide inspiration, information and assistance. Students will have the chance to present preeliminary visuals at the Safe Space organized on the 14th of October at the Under the rugXOuroboros party. The final visuals will be shown on the 21st of October at an AHO gallery that will be transformed into a Safe Space for the next days.
+
+
+Affiliated Organizations with Safe Space:
+<img width="1296" alt="safespace" src="https://github.com/EnriqueKi/KreativeKode/assets/108141423/4b1d1225-4574-44fd-94a3-c8993e1b74e5">
 
 
 _Resources:_ 
