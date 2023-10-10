@@ -113,7 +113,7 @@ Cut/Copy/Paste code from everywhere all at once! -> Remix! and Steal!
 
 
 
-## Care Visuals for Safe Spaces
+## Visual Aid in the Safe Space
 
 The final brief for the Kreative Kode course has been developed in cooperation with Tryggere Ryspolitik and their initiative Safe Space. Before diving into the brief description, lets quickly answer some important questions. 
 
