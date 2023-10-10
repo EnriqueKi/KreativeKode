@@ -139,13 +139,21 @@ More info here: https://safe-space.no/ and here: https://zendoproject.org/about/
 
 ### The Brief
 
-Different people arrive to Safe Spaces looking different things. Some are looking for comfort, others for grounding and many for a few moments of peace. How a Safe Space is designed has a major impact in how people transition into a preferred way of being in their own body. What people sense while in the safe space greatly influences what they experience. 
+Different people arrive to Safe Spaces looking different things. Some are looking for comfort, others for grounding and many for a few moments of peace. How a Safe Space is designed has an impact in how people transition into a preferred way of being in their own body. What people sense while in the safe space influences, to a different extent, what they experience. 
 
-The final task for the Kreative Kode will focus on what people see while spending time in the Safe Space. You, the students, will design visuals that will be projected in Safe Spaces with the aim to contribute to visitors wellbeing. 
+The final task for the Kreative Kode will focus on what people see while spending time in the Safe Space. You will design visuals that will be projected in Safe Spaces with the aim to contribute to visitors wellbeing. 
 
 People find themselves in a Safe Space sometimes feeling anxious, lost, alone, trapped, disoriented or confused. What moving images shown on screens or painted with light as projections in the walls of the safe space can help people feel more grounded, peaceful and safe? 
 
-Ingrid Autran from Safe Space and Anna Høifødt from Tryggere Ruspolitik will visit us during the week to provide inspiration, information and assistance. Students will have the chance to present preeliminary visuals at the Safe Space organized on the 14th of October at the Under the rugXOuroboros party. The final visuals will be shown on the 21st of October at an AHO gallery that will be transformed into a Safe Space for the next days.
+Ingrid Autran from Safe Space and Anna Høifødt from Tryggere Ruspolitik will visit us during the week to provide inspiration, information and assistance. 
+
+Deadline #1  
+13th October @10 am - Students will have the chance to present visuals at the Safe Space organized on the 14th of October at the Under the rugXOuroboros party. It is extremely important that the visuals contribute to the wellbeing of Safe Space visitors. For this reason, we will decide collectively as a class which visuals are presented at the safe space and which dont based, not only on the quality of the visuals but also and importantly on how and why this visuals can contribute to the wellbeing of Safe Space dwellers.
+Deliverables: 1 to 3 visuals per student or per group of students + Written argument (150-300 words) describing why and how their visual creation can contribute to the wellbeing of Safe Space visitors.
+
+
+Deadline #2
+On the 21st of October at an AHO gallery will be transformed into a Safe Space for the next days .
 
 
 **Affiliated Organizations with Safe Space and Tryggere Ruspolitik:**
